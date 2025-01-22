@@ -1,0 +1,5 @@
+a projekttől elvárjuk hogy:
+-elsőfokú és másodfokú egyenleteket tudjon megoldani
+-amikor elindítjuk a programot akkor bejöjjön egy kérdés hogy milyen egyenletet oldjon meg
+-2. szöveg az lenne hogy írja be az egyenletet és automatikusan kiszámolja
+-kiszámolja és utána elköszön a felhasználótól.
