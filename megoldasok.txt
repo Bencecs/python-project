@@ -1,0 +1,3 @@
+Els�fok� egyenlet: 2x+6=10, Megold�s: -30.5
+Másodfokú egyenlet: 2x^2+4x+8=0, Gyökök: (-1+1.7320508075688772j) és (-1-1.7320508075688772j)
+Elsőfokú egyenlet: 5x-6=8, Megoldás: 13.6
