@@ -1,3 +1,8 @@
 Mindenki forkolta a githubon a repositorymat és le is lettek szinkronizálva
 Jó volt a program ötlet, mindenkinek tetszett
 Írtunk közösen 1 programot amibe mindenkinek volt része + egy txt is van hozzá amiben a negoldások vannak
+
+Github nevek:
+-Bencecs (owner)
+-Zoltan22740
+-makika11
